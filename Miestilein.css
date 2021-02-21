@@ -1,0 +1,35 @@
+header{
+    background:#ffffff;
+    color:white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+a:link {
+    color:rgb(255, 255, 255);
+}
+
+a:hover {
+    font-size:20px;
+    color:rgb(255, 255, 255);
+}
+
+.img_historia{
+    align-self: center;
+    width: 900px;
+    border-radius: 10px;
+}
+.img_h1{
+    align-self:center;
+    width: 90px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.img_productos{
+    align-self:center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
